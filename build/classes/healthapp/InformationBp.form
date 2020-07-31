@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <NonVisualComponents>
+    <Component class="javax.swing.JScrollBar" name="jScrollBar1">
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel3">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Ubuntu" size="15" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="&lt;HTML&gt;&#xa;HYPERTENSION&lt;HTML&gt;&#xa;&#xa;&lt;HTML&gt;Also known as high blood pressure, hypertension is the most common cardiovascular disease.&#xa;Blood pressure is the force of blood pushing against your artery walls as it goes through your body&#xa;High blood pressure can hurt your arteries and lead to life-threatening conditions like heart disease and stroke.&#xa;SYMPTOMS&#xa;Severe headache&#xa;Fatigue or confusion&#xa;Vision problems&#xa;Chest pain&#xa;Difficulty breathing&#xa;Irregular heartbeat&#xa;Blood in the urine&#xa;Pounding in your chest, neck, or ears&#xa;DIAGNOSIS&#xa;Blood pressure is measured using sphygmomanometer .The first, the higher of the two, is your systolic pressure. That&apos;s the force in the arteries when the heart beats. The second number is your diastolic pressure, or the pressure in the arteries when the heart rests between beats.&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;It&apos;s also more common in people who are:&#xa;&#xa;African-American&#xa;Older than 55&#xa;Overweight&#xa;Inactive&#xa;Heavy alcohol drinkers&#xa;Smokers&#xa;TREATMENT&#xa;The goal of hypertension treatment is to lower high blood pressure and protect important organs, like the brain, heart, and kidneys from damage.&#xa;lifestyle modifications, such as eating a healthier diet, quitting smoking, and getting more exercise.&#xa;DRUGS&#xa;Drugs to Treat High Blood Pressure&#xa;There are several types of drugs used to treat high blood pressure, including:&#xa;&#xa;Angiotensin-converting enzyme (ACE) inhibitors&#xa;Angiotensin II receptor blockers (ARBs)&#xa;Diuretics&#xa;Beta-blockers&#xa;Calcium channel blockers&#xa;Alpha-blockers&#xa;Alpha-agonists&#xa;Renin inhibitors&#xa;Combination medications&#xa;Diuretics are often recommended as the first line of therapy for most people who have high blood pressure.&#xa;&lt;HTML&gt;"/>
+        <Property name="verticalAlignment" type="int" value="1"/>
+        <Property name="enabled" type="boolean" value="false"/>
+        <Property name="focusCycleRoot" type="boolean" value="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel4">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&lt;HTML&gt; HYPERTENSION                                                                                                                                                                                                                 Also known as high blood pressure, hypertension is the most common cardiovascular disease. Blood pressure is the force of blood pushing against your artery walls as it goes through your body High blood pressure can hurt your arteries and lead to life-threatening conditions like heart disease and stroke.&lt;HTML&gt; "/>
+        <Property name="verticalAlignment" type="int" value="1"/>
+      </Properties>
+    </Component>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="719" max="-2" attributes="0"/>
+                  <Component id="jLabel1" pref="159" max="32767" attributes="0"/>
+              </Group>
+              <Group type="102" alignment="1" attributes="0">
+                  <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
+                  <Component id="jButton1" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="32767" attributes="0"/>
+                  <Component id="jLabel2" min="-2" pref="249" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="309" max="-2" attributes="0"/>
+              </Group>
+              <Group type="102" alignment="1" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jScrollPane1" pref="0" max="32767" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="1" attributes="0">
+                  <EmptySpace min="-2" pref="6" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jLabel2" alignment="3" min="-2" pref="34" max="-2" attributes="0"/>
+                      <Component id="jButton1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jScrollPane1" min="-2" pref="492" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="24" max="-2" attributes="0"/>
+                  <Component id="jLabel1" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel2">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="URW Gothic L" size="24" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="INFORMATION"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel1">
+        </Component>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTextPane" name="jTextPane1">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="HYPERTENSION&#xa;&#xa;Also known as  high blood pressure , hypertension is the most common cardiovascular disease. Blood Pressure is the force of blood pushing against your artilery walls as it get through your body.&#xa;&#xa;High Blood pressure can hurt your artileries and lead to life threatning conditions like heart disease and stroke.&#xa;&#xa;SYMPTOMS&#xa;&#xa;Severe Headache &#xa;Fatigue or confusion&#xa;vision problems &#xa;Chest pain &#xa;Difficulty breathing &#xa;Irregular heartbeat&#xa;Blood in the urine&#xa;Pounding in your chest, neck or ears&#xa;&#xa;DIAGONOSIS&#xa;&#xa;Blood pressure is measured using sphygmomanometer the first, the higher of the two is your systolicpressure. That&apos;s is the force in the arteries when the heart beat. The Second number is your Diastolic pressure, or the pressure in the arteries when the heart rest between beats. It is also more common in people who are&#xa; African/ American&#xa;Older than 55&#xa;Owerweight&#xa;Inactive&#xa;Heavy alcohol drinkers&#xa;Smokers&#xa;&#xa;TREATMENT&#xa;&#xa;The goal of hypertension is two lower high blood pressure and protect important organs , like the brain , heart , and kidneys from damage.&#xa;&#xa;Lifestyle modifications, eating a healthier diet , quitiin g smoking , and getting more exercise.&#xa;&#xa;DRUGS&#xa;&#xa;Drugs to treat high blood Pressure:&#xa;&#xa;There are several types of drugs use to treat high blood pressure , including :&#xa;&#xa;Angiotensin-converting enzyme(ACE) inhibitors&#xa;Angiotensin II receptors blocker(ARBs) &#xa;Diuretics&#xa;Beta-blockers&#xa;Calcium Channel blockers&#xa;Alfa Blockers&#xa;Alfa Agonist&#xa;Renin inhibitors&#xa;Combinational Medicines&#xa;Dueretics are often recommended as the first line of therapy for most people who have high blood pressure.&#xa;&#xa;&#xa;"/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Component class="javax.swing.JButton" name="jButton1">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="back"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+          </Events>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
